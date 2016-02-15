@@ -1,0 +1,1 @@
+Web site showing information about planets, using Swiss Ephemeris. Date and geographical coordinates are the input data.
